@@ -1,0 +1,36 @@
+{
+  "funcionarios": [
+    {
+      "nome": "Karla",
+      "id": 1,
+      "funcao": "gerente"
+    },
+    {
+      "nome": "Pedro",
+      "id": 2,
+      "funcao": "atendente1"
+    },
+    {
+      "nome": "Jonas",
+      "id": 3,
+      "funcao": "atendente2"
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "maria",
+      "cpf": "71652566777",
+      "id": 1
+    },
+    {
+      "nome": "Leris",
+      "cpf": "7165387122",
+      "id": 2
+    },
+    {
+      "nome": "Morgana",
+      "cpf": "7543372277",
+      "id": 3
+    }
+  ]
+}
